@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dao Xuan Truong</h1>
-<h3 align="center">A student learn about fullstack, dream become a brSE</h3>
+<h3 align="center">A student learn about fullstack, try my best</h3>
 
 - 🔭 I’m currently working on **Website, AI**
 
